@@ -10,7 +10,7 @@
     "@types/node": "^10.0.0",
     "jasmine-protractor-matchers": "^2.0.0",
     "jasmine2-reporter": "^1.0.1",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "protractor": "5.4.2",
     "protractor-element-extend": "^2.1.0",
     "typescript": "3.5.3",
